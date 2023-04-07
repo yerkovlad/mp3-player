@@ -24,3 +24,6 @@ global_database/con_to_mon_db_serv.py       | The file contains functions for wo
 login/log.py                                | The file displays a window for logging into the account
 registration/registr.py                     | The file displays a window for registering an account
 widget_down_files/widget_download.py        | Window to download music
+================
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
