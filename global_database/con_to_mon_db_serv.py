@@ -4,7 +4,7 @@ import sys
 sys.path.insert(1, os.path.join(sys.path[0], '..'))
 from database_fl.connect_to_database import *
 
-client_con = MongoClient(f"mongodb+srv://yerkovlad:02012009@cluster0.g3oloqa.mongodb.net/?retryWrites=true&w=majority")
+client_con = MongoClient(f"mongodb+srv://YOURMONGOLOGIN:YOURMONGOPASSWORD@YOURMONGODBNAME.g3oloqa.mongodb.net/?retryWrites=true&w=majority")
 
 db = client_con['Main_database']
 
