@@ -2,6 +2,6 @@
 
 h1 Mp3-Player
 
-Text1
+h2 About Program
 ***
-text2
+This is an mp3-player where you can create accounts, download music from the Internet and listen to it
