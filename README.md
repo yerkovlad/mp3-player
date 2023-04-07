@@ -26,4 +26,4 @@ registration/registr.py                     | The file displays a window for reg
 widget_down_files/widget_download.py        | Window to download music
 ================
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/yerkovlad/mp3-player/blob/main/images/image.png)
