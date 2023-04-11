@@ -1,8 +1,6 @@
 # mp3-player
 
-Mp3-Player
-
-About Program
+About Program:
 ***
 This is an mp3-player where you can create accounts, download music from the Internet and listen to it
 ***
